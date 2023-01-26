@@ -1,0 +1,11 @@
+{
+    "name": "Languageswitch",
+    "alias": "languageswitch",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Languageswitch\\Providers\\LanguageswitchServiceProvider"
+    ],
+    "files": []
+}

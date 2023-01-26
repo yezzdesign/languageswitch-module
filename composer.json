@@ -1,0 +1,25 @@
+{
+    "name": "yezzdesign/languageswitch-module",
+    "type": "laravel-module",
+    "description": "AddOn to change the language",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Scholz",
+            "email": "yezz.design@schodie.de"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Languageswitch\\": ""
+        }
+    }
+}
